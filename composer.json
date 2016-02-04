@@ -1,0 +1,19 @@
+{
+  "name": "baconfy/translate-package",
+  "description": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Renato Dehnhardt",
+      "email": "renatotkd@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "autoload": {
+    "files": [
+      "src/helpers.php"
+    ]
+  }
+}
